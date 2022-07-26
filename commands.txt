@@ -1,0 +1,4 @@
+git status
+git add ansible.cfg
+git commit -m first version of ansibe.cfg and add user to Server in inventory
+git push origin main

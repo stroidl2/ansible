@@ -1,5 +1,5 @@
-192.168.56.101 ansible_user=user
-192.168.56.102 ansible_user=user
-192.168.56.103 ansible_user=user
+ubuntu1.fritz.box ansible_user=user
+ubuntu2.fritz.box ansible_user=user
+ubuntu3.fritz.box ansible_user=user
 
 
